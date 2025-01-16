@@ -6,13 +6,13 @@
   - <a href="https://github.com/handop/Programming-2">Programming 2 Final Project</a>
 - <b>SQL and T-SQL Databases</b>
   - <a href="https://github.com/handop/Programming-2">Database Design and SQL I Final Project</a>
-  - <a href="https://github.com/handop/Programming-2">Database Design and SQL II Final Project</a>
+  - <a href="https://github.com/handop/Database-Design-And-SQL-II">Database Design and SQL II Final Project</a>
 - <b>Web Application based on HTML, PHP and MySQL</b>
   - <a href="https://github.com/handop/Programming-2">Web Application I Final Project</a>
 - <b>Web Application based on C#, Ajax, CS, HTML, and SQL</b>
   - <a href="https://github.com/handop/Programming-2">Web Application Development II Final Project</a>
 - <b>C-based Application</b>
-  - <a href="https://github.com/handop/Programming-2">C Programming I Final Project</a>
+  - <a href="https://github.com/handop/C-Programming-I">C Programming I Final Project</a>
 - <b>Exploring Object-Oriented-Programming with Python</b>
   - <a href="https://github.com/handop/Programming-2">Object-Oriented Programming Final Project</a>
 
