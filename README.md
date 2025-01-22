@@ -9,7 +9,7 @@
 - <b>Web Application based on HTML, PHP and MySQL</b>
   - <a href="https://github.com/handop/Web-App-Development-I">Web Application I Final Project</a>
 - <b>Web Application based on C#, Ajax, CS, HTML, and SQL</b>
-  - <a href="https://github.com/handop/Programming-2">Web Application Development II Final Project</a>
+  - <a href="https://github.com/handop/Web-App-Development-II">Web Application Development II Final Project</a>
 - <b>C-based Application</b>
   - <a href="https://github.com/handop/C-Programming-I">C Programming I Final Project</a>
 
