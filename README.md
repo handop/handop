@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oliver! <br/><a href="https://github.com/handop">Programmer</a>, <a href="https://www.linkedin.com/in/oliver-hand-74879a283/">LinkedIn</a> </h1>
+<h1>Welcome to my profile!</h1>
 
 <h2>Projects I worked on at Cincinnati State:</h2>
 
