@@ -53,5 +53,5 @@ A social platform centered around food discovery, messaging, events, and group i
 ---
 
 ## Connect With Me
-- LinkedIn: [YOUR LINK]
-- Email: [YOUR EMAIL]
+- <a href=https://www.linkedin.com/in/oliver-hand-74879a283/>LinkedIn</a>
+- <a href=mailto:oliver.p.hand@outlook.com>Email: oliver.p.hand@outlook.com</a>
