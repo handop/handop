@@ -1,29 +1,57 @@
-<h1>Welcome to my profile!</h1>
+# Hi, I'm Oliver Hand 👋
 
-<h2>Projects I worked on at Cincinnati State:</h2>
+## About Me
+I'm an IT and software development student focused on building web applications with ASP.NET MVC and C#.
 
-- <b>Visual Basic Application</b>
-  - <a href="https://github.com/handop/Programming-2">Programming 2 Final Project</a>
-- <b>SQL and T-SQL Databases</b>
-  - <a href="https://github.com/handop/Database-Design-And-SQL-II">Database Design and SQL II Final Project</a>
-- <b>Web Application based on HTML, PHP and MySQL</b>
-  - <a href="https://github.com/handop/Web-App-Development-I">Web Application I Final Project</a>
-- <b>Web Application based on C#, Ajax, CS, HTML, and SQL</b>
-  - <a href="https://github.com/handop/Web-App-Development-II">Web Application Development II Final Project</a>
-- <b>C-based Application</b>
-  - <a href="https://github.com/handop/C-Programming-I">C Programming I Final Project</a>
+Currently:
+- Technical Support Technician Co-op at Southwest Local School District
+- Developing full-stack web applications
+- Improving UI/UX and backend functionality in collaborative projects
 
-<!--
-**handop/handop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TasteBudz
+A social platform centered around food discovery, messaging, events, and group interaction.
+
+#### Features
+- User authentication
+- Messaging system
+- Group chats
+- Event management
+- Swipe-based interaction system
+- ASP.NET MVC architecture
+
+#### Technologies
+- C#
+- ASP.NET MVC
+- SQL Server
+- HTML/CSS
+- JavaScript
+- Entity Framework
+
+---
+
+## Technologies & Tools
+
+- C#
+- ASP.NET MVC
+- SQL Server
+- JavaScript
+- HTML/CSS
+- Git & GitHub
+- Visual Studio
+
+---
+
+## Currently Working On
+- Improving TasteBudz messaging and routing systems
+- Enhancing responsive UI design
+- Expanding backend integration experience
+
+---
+
+## Connect With Me
+- LinkedIn: [YOUR LINK]
+- Email: [YOUR EMAIL]
