@@ -1,56 +1,64 @@
 # Hi, I'm Oliver Hand 👋
 
 ## About Me
-I'm an IT and software development student focused on building web applications with ASP.NET MVC and C#.
+I'm an IT and software development student focused on building full-stack web applications using ASP.NET MVC, C#, SQL Server, and JavaScript.
 
 Currently:
-- Technical Support Technician Co-op at Southwest Local School District
-- Developing full-stack web applications
-- Improving UI/UX and backend functionality in collaborative projects
+- Seeking software development, IT, or full-stack web development opportunities
+- Continuing development of collaborative full-stack web applications
+- Improving backend systems, messaging architecture, and UI/UX design
+- Expanding experience with MVC architecture and database integration
 
 ---
 
-## Featured Project
+## Featured Collaborative Project
 
-### TasteBudz
-A social platform centered around food discovery, messaging, events, and group interaction.
+### [TasteBudz](https://github.com/glebovski1/TasteBudz)
 
-#### Features
-- User authentication
-- Messaging system
-- Group chats
-- Event management
-- Swipe-based interaction system
-- ASP.NET MVC architecture
+TasteBudz is a collaborative full-stack ASP.NET MVC social platform focused on food discovery, messaging, events, and social interaction.
 
-#### Technologies
+### My Contributions
+- Messaging system debugging and improvements
+- MVC routing fixes
+- Frontend/backend integration
+- UI/UX improvements
+- Event functionality troubleshooting
+- Profile and navigation enhancements
+
+### Technologies Used
 - C#
 - ASP.NET MVC
 - SQL Server
+- Entity Framework
 - HTML/CSS
 - JavaScript
-- Entity Framework
+
+## Academic & Personal Projects
+
+In addition to TasteBudz, my GitHub includes coursework and technical projects involving:
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Systems
+- ASP.NET MVC Applications
+- Front-End Web Development
+- Networking & Systems Concepts
 
 ---
 
 ## Technologies & Tools
 
+### Languages
 - C#
-- ASP.NET MVC
-- SQL Server
+- SQL
 - JavaScript
 - HTML/CSS
-- Git & GitHub
-- Visual Studio
 
----
+### Frameworks & Technologies
+- ASP.NET MVC
+- Entity Framework
 
-## Currently Working On
-- Improving TasteBudz messaging and routing systems
-- Enhancing responsive UI design
-- Expanding backend integration experience
 
----
 
 ## Connect With Me
 - <a href=https://www.linkedin.com/in/oliver-hand-74879a283/>LinkedIn</a>
