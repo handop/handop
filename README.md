@@ -1,21 +1,22 @@
 # Hi, I'm Oliver Hand 👋
 
 ## About Me
-I'm an IT and software development student focused on building full-stack web applications using ASP.NET MVC, C#, SQL Server, and JavaScript.
+
+I'm an aspiring full-stack developer and IT professional focused on building web applications using ASP.NET MVC, C#, SQL Server, and JavaScript.
 
 Currently:
 - Seeking software development, IT, or full-stack web development opportunities
-- Continuing development of collaborative full-stack web applications
-- Improving backend systems, messaging architecture, and UI/UX design
-- Expanding experience with MVC architecture and database integration
+- Continuing development of collaborative web applications
+- Expanding experience with backend systems, database integration, and UI/UX design
+- Building projects focused on practical full-stack development
 
 ---
 
-## Featured Collaborative Project
+# Featured Collaborative Project
 
-### [TasteBudz](https://github.com/glebovski1/TasteBudz)
+## [TasteBudz](https://github.com/glebovski1/TasteBudz)
 
-TasteBudz is a collaborative full-stack ASP.NET MVC social platform focused on food discovery, messaging, events, and social interaction.
+TasteBudz is a collaborative full-stack ASP.NET MVC social platform focused on food discovery, messaging, events, and community interaction.
 
 ### My Contributions
 - Messaging system debugging and improvements
@@ -33,33 +34,73 @@ TasteBudz is a collaborative full-stack ASP.NET MVC social platform focused on f
 - HTML/CSS
 - JavaScript
 
-## Academic & Personal Projects
+---
 
-In addition to TasteBudz, my GitHub includes coursework and technical projects involving:
+# Featured Coursework & Academic Projects
 
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Database Systems
-- ASP.NET MVC Applications
-- Front-End Web Development
-- Networking & Systems Concepts
+These projects were completed throughout my coursework at Cincinnati State and demonstrate experience across multiple areas of software development.
+
+## Visual Basic Application
+- [Programming 2 Final Project](https://github.com/handop/Programming-2)
+
+## SQL and T-SQL Database Development
+- [Database Design and SQL II Final Project](https://github.com/handop/Database-Design-And-SQL-II)
+
+## Web Application Development (HTML, PHP, MySQL)
+- [Web Application Development I Final Project](https://github.com/handop/Web-App-Development-I)
+
+## Full-Stack Web Application Development (C#, AJAX, HTML, SQL)
+- [Web Application Development II Final Project](https://github.com/handop/Web-App-Development-II)
+
+## C Programming Application
+- [C Programming I Final Project](https://github.com/handop/C-Programming-I)
 
 ---
 
-## Technologies & Tools
+# Technologies & Tools
 
-### Languages
+## Languages
 - C#
 - SQL
 - JavaScript
 - HTML/CSS
+- C
+- Visual Basic
 
-### Frameworks & Technologies
+## Frameworks & Technologies
 - ASP.NET MVC
 - Entity Framework
+- SQL Server
+- AJAX
+- Git & GitHub
+- Visual Studio
 
+---
 
+# Areas of Interest
 
-## Connect With Me
-- <a href=https://www.linkedin.com/in/oliver-hand-74879a283/>LinkedIn</a>
-- <a href=mailto:oliver.p.hand@outlook.com>Email: oliver.p.hand@outlook.com</a>
+- Full-Stack Web Development
+- ASP.NET MVC Applications
+- Database Design & Integration
+- Backend Development
+- UI/UX Improvement
+- Technical Troubleshooting
+- Collaborative Software Development
+
+---
+
+# Current Focus
+
+- Improving full-stack development skills
+- Building scalable ASP.NET MVC applications
+- Expanding backend architecture experience
+- Continuing development of collaborative projects
+- Seeking opportunities to grow as a software developer
+
+---
+
+# Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/oliver-hand-74879a283/)
+- [Email](mailto:oliver.p.hand@outlook.com)
+
